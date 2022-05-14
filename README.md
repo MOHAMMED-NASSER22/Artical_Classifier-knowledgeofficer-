@@ -18,7 +18,6 @@
 - create Word Cloud for each category 
 
 3. **Data Cleaning** : 
-- Concat them into one csv file.
 - Drop duplicates.
 - remove the empty fileds.
 
