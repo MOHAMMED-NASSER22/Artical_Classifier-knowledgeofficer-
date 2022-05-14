@@ -18,15 +18,9 @@
 - create Word Cloud for each category 
 
 3. **Data Cleaning** : 
-- Concat them into one csv file.
 - Drop duplicates.
 - remove the empty fileds.
 
-Remove punctuation
-Convert all texts to be in lower case.
-Use nltk.tokenize for sentences tokenization.
-Remove stopwords from the tokenized text.
-Apply Lemmatization to the texts.
 
 4. **Data Preprocessing**  : In this step, I have important processes to apply to my dataframe to be ready as an input for the model.
 - Remove punctuation
