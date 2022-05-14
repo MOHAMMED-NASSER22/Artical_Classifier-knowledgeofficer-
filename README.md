@@ -4,6 +4,7 @@
 <h3 align="left">Tools & Libraries :</h3>
 
 - jupyter Notebook (python 3).
+- seaborn for visualization
 - NLTK for text processing.
 - sklearn (Logistic Regression & Naive Bayes & LinearSVC).
 
